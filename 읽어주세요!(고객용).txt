@@ -1,9 +1,12 @@
-�� ���Ͽ��� �ʱ� ���� ����, ������ FTP ������ ��ġ�� �����Դϴ�.
+이 파일에는 초기 세팅 이후, 고객의 FTP 폴더에 위치할 파일입니다.
 
-������ �ٸ��ּż�, ������ ���� �� �ֵ��� ���ֽñ� �ٶ��ϴ�.
+적당히 꾸며주셔서, 고객이 읽을 수 있도록 해주시기 바랍니다.
 
-== �ʼ� �ȳ� ����
-1. ��Ŷ ���� �̸��� bukkit.jar�� ���ֽñ� �ٶ��ϴ�.
-2. server.properties�� ������ �ڿ��� pserver.properties�� �����ϼž� �ùٸ��� ���õ˴ϴ�.
-3. �� �г��� GNU GPL�� �����˴ϴ�. (�̽� Ʈ��Ŀ: https://github.com/crongcloud/FTP-Panel/issues)
-4. �гο� �ִ� ������ �����Ͻø� �˴ϴ�.
+== 필수 안내 사항
+1. 버킷 파일 이름은 bukkit.jar로 해주시기 바랍니다.
+2. server.properties를 수정한 뒤에는 pserver.properties를 삭제하셔야 올바르게 세팅됩니다.
+3. 이 패널은 GNU GPL로 배포됩니다. (이슈 트래커: https://github.com/crongcloud/FTP-Panel/issues)
+4. 패널에 있는 파일을 삭제하시면 됩니다.
+
+== 테스트
+1. 
